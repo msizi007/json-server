@@ -1,11 +1,4 @@
 {
-  "users": [
-    {
-      "id": "4465",
-      "name": "Uma Sahni",
-      "email": "7Ks2A@example.com",
-      "password": "123456"
-    }
-  ],
+  "users": [],
   "jobs": []
 }
